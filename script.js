@@ -54,5 +54,5 @@ layerPicker.addEventListener('change', function (e) {
   }
   
   // Sometimes it helps to log messages, here we log the lifestage. You can see this if you open developer tools and look at the console.
-  console.log('Dropdown changed to "' + lifeStage + '" !!');
+  console.log('Dropdown changed to "' + lifeStage + '"');
 });
